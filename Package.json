@@ -1,0 +1,10 @@
+{
+  "name": "discord-interactions-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "discord-interactions": "^3.4.0"
+  }
+}
